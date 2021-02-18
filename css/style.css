@@ -83,7 +83,8 @@ td{
   color: #FFFFFF;
   text-align: center;
   text-transform: uppercase;
-  column-width: 125px;  
+  min-width: 125px;  
+  margin: 0 auto;
   padding: 10px;
   background-color: #7e0820;
 }

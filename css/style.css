@@ -33,6 +33,7 @@ body{
   font-family: "Andika","sans-serif";
   background-color: #DDDDDD;
   background-image: url("../images/pigeon-background.JPEG");
+  background-repeat: no-repeat;
 
   /*Req 1*/
 }
@@ -81,7 +82,6 @@ td{
 /*Req 6b*/
 .colhead{
   color: #FFFFFF;
-  text-align: center;
   text-transform: uppercase;
   min-width: 125px;  
   margin: 0 auto;
